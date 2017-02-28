@@ -1,0 +1,14 @@
+html, body {
+  background: #333;
+  color: #FAFAFA;
+}
+
+html h1, body h1 {
+  margin: 10px 0 50px 0;
+}
+
+html button, body button {
+  margin: 50px 0 0 0;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFFQTtFQUNFLGlCQUFnQjtFQUNoQixlQUFjO0NBU2Y7O0FBWEQ7RUFLSSxzQkFBcUI7Q0FDdEI7O0FBTkg7RUFTSSxtQkFBa0I7Q0FDbkIiLCJmaWxlIjoibWFpbi5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAaW1wb3J0ICd2YXJpYWJsZXMnO1xyXG5cclxuaHRtbCwgYm9keSB7XHJcbiAgYmFja2dyb3VuZDogIzMzMztcclxuICBjb2xvcjogI0ZBRkFGQTtcclxuICBcclxuICBoMSB7XHJcbiAgICBtYXJnaW46IDEwcHggMCA1MHB4IDA7XHJcbiAgfVxyXG5cclxuICBidXR0b24ge1xyXG4gICAgbWFyZ2luOiA1MHB4IDAgMCAwO1xyXG4gIH1cclxufSJdfQ== */
