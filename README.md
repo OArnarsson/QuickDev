@@ -3,7 +3,7 @@ This repo was made to be able to start experimental projects in no time.
 
 Technology used:  
 <a href="https://v4-alpha.getbootstrap.com/"><img src="http://codeplus.it/uploads/bootstrap.png" alt="Bootstrap 4" width="50" height="50"/></a>
-<a href="http://gulpjs.com/"><img src="http://www.unixstickers.com/image/data/stickers/gulpjs/gulp.sh.png" alt="Gulp.js" width="50" height="50"/></a>
+<a href="http://gulpjs.com/"><img src="http://devstickers.com/assets/img/pro/tqac.png" alt="Gulp.js" width="50" height="50"/></a>
 <a href="http://sass-lang.com/"><img src="http://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Sass" width="50" height="50"/></a>
 <a href="https://www.browsersync.io/"><img src="https://browsersync.io/brand-assets/logo-red.png" alt="Browsersync" width="50" height="50"/></a>
 <a href="http://npmjs.com/"><img src="https://genesisui.com/img/logos/npm.png" alt="npm" width="50" height="50"/></a>
